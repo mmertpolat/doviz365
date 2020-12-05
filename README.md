@@ -19,7 +19,7 @@ Döviz365 is a bot application that shares exchange rates every hour on its Twit
 
 Döviz365 uses a number of modules to work properly:
 
-* [PHP] - Programming language
+* PHP - Programming language
 
 License
 ----
